@@ -17,8 +17,6 @@ authors:
 - family-names: "Givargis"
   given-names: "Tony"
 title: "DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication"
-version: 1.0.0
-date-released: 2023-06-19
 url: "https://github.com/mikeheddes/dothash"
 preferred-citation:
   type: conference-paper
@@ -38,6 +36,7 @@ preferred-citation:
     given-names: "Alexandru"
   - family-names: "Givargis"
     given-names: "Tony"
-  journal: "Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
   title: "DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication"
+  collection-title: "Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  collection-type: proceedings
   year: 2023
