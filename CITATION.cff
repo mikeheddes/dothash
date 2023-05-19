@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code for your research, please cite our paper."
+authors:
+- family-names: "Nunes"
+  given-names: "Igor"
+- family-names: "Heddes"
+  given-names: "Mike"
+  orcid: "https://orcid.org/0000-0002-9276-458X"
+- family-names: "Vergés"
+  given-names: "Pere"
+- family-names: "Abraham"
+  given-names: "Danny"
+- family-names: "Veidenbaum"
+  given-names: "Alex"
+- family-names: "Nicolau"
+  given-names: "Alexandru"
+- family-names: "Givargis"
+  given-names: "Tony"
+title: "DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication"
+version: 1.0.0
+date-released: 2023-06-19
+url: "https://github.com/mikeheddes/dothash"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Nunes"
+    given-names: "Igor"
+  - family-names: "Heddes"
+    given-names: "Mike"
+    orcid: "https://orcid.org/0000-0002-9276-458X"
+  - family-names: "Vergés"
+    given-names: "Pere"
+  - family-names: "Abraham"
+    given-names: "Danny"
+  - family-names: "Veidenbaum"
+    given-names: "Alex"
+  - family-names: "Nicolau"
+    given-names: "Alexandru"
+  - family-names: "Givargis"
+    given-names: "Tony"
+  journal: "Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  title: "DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication"
+  year: 2023
