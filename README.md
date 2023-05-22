@@ -23,6 +23,8 @@ python link_prediction.py --help
 
 ### Document Deduplication
 
+Experiments with the `core` dataset require data to be downloaded from [Google Drive](https://drive.google.com/file/d/1uBPhyHnv74ApCw7ldMnrHpWs1Yv2pbYh/view?usp=share_link) and placed in the `data` directory.
+
 ```bash 
 python document_deduplication.py --help
 ```
